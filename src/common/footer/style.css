@@ -1,0 +1,21 @@
+footer {
+  background-color: #06080b;
+  padding: 50px 0;
+  color: #fff;
+}
+footer h1 {
+  margin-bottom: 30px;
+  color: #e94560;
+  font-weight: 1000;
+  font-style: italic;
+}
+
+
+footer h2 {
+  margin-bottom: 20px;
+}
+footer li {
+  margin-bottom: 10px;
+  margin-left: 20px;
+  opacity: 1.5;
+}
